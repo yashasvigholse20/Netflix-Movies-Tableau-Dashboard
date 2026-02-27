@@ -1,4 +1,5 @@
 # Netflix-Movies-Tableau-Dashboard
+![Dashboard Preview](Dashboard.png)
 This project presents an interactive Tableau dashboard analyzing Netflix movie trends, genre performance, revenue contribution, and ROI-based investment insights.
 
 Key Insights Covered :
